@@ -1,0 +1,15 @@
+{
+  "name": "ytclone",
+  "version": "1.0.0",
+  "description": "ytclone project",
+  "license": "ISC",
+  "author": "Uday Deshmukh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
